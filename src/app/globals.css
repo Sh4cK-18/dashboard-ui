@@ -37,7 +37,6 @@ body {
   grid-template-columns: 1fr 4fr;
 }
 
-/*en pantallas pequeñas ocultar el SideBar y que el ContentChart ocupe todo el ancho del grid*/
 @media (max-width: 1200px) {
   #grid-template{
     grid-template-columns: 1fr;
