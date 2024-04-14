@@ -31,3 +31,8 @@ body {
     text-wrap: balance;
   }
 }
+
+#grid-template{
+  display:grid;
+  grid-template-columns: 1fr 4fr;
+}
