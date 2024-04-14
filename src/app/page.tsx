@@ -6,7 +6,9 @@ export default function Home() {
     <main className="bg-gray-900 h-screen">
       <Nav/>
       <div id="grid-template" className=" h-[90%]">
+        <div id="side-bar">
         <SideBar/>
+        </div>
         <ContentChart/>
       </div>
     </main>

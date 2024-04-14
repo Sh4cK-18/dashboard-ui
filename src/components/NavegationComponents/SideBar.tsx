@@ -3,7 +3,7 @@ import { IconChartPie, IconBrandShopee, IconUsers } from "@tabler/icons-react";
 export default function SideBar() {
   return (
     <>
-      <div className=" w-full h-full ">
+      <div className=" w-full h-full">
         <nav className="grid grid-cols-1 bg-gray-800 h-full ">
           <ul className="flex flex-col gap-y-10 mt-8 m-4">
             <li>
